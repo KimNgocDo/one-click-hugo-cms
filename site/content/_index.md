@@ -26,7 +26,7 @@ intro:
 
     Dự báo, bão số 3 sẽ đi vào khu vực vịnh Bắc Bộ và ảnh hưởng trực tiếp đến thời tiết của tỉnh Quảng Ninh, Hải Phòng.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/about-shade-grown.jpg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
