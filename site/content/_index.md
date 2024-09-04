@@ -32,15 +32,25 @@ products:
       of coffee beans grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/about-direct-sourcing.jpg
+    text: >+
+      UBND tỉnh Quảng Ninh yêu cầu Sở Nông nghiệp và Phát triển nông thôn, phối
+      hợp chặt chẽ với các cơ quan, đơn vị theo dõi diễn biến của bão, thông tin
+      đến các địa phương, đơn vị để chủ động triển khai các biện pháp ứng phó.
+
+
+      Chỉ đạo Chi cục Thủy sản phối hợp với UBND các địa phương ven biển nắm chắc tình hình tàu thuyền (đặc biệt là tàu xa bờ); thông báo cho chủ các phương tiện đang hoạt động trên biển biết vị trí và diễn biến của bão để chủ động về nơi tránh trú, không đi vào vùng nguy hiểm.
+
+
+      Chỉ đạo các đơn vị quản lý hồ chứa chủ động theo dõi mực nước hồ, sẵn sàng phương án đảm bảo an toàn hồ chứa trong tình huống mưa lớn sau bão.
+
+
+      Bí thư cấp ủy các huyện, thị xã, thành phố căn cứ tình hình thực tiễn địa bàn để tổ chức kiểm tra, tập trung chỉ đạo phòng chống mưa bão trên địa bàn và chịu trách nhiệm người đứng đầu nếu để xảy ra thiệt hại về người, tài sản của Nhân dân do lơ là, chủ quan trong công tác lãnh đạo, chỉ đạo.
+
+
+      Chủ tịch UBND các địa phương (đặc biệt các địa phương ven biển và miền núi) theo dõi thông tin thường xuyên, nắm chắc tình hình diễn biến cơn bão số 3; khẩn trương thực hiện ngay các biện pháp phòng chống bão theo phương châm “3 trước - 4 tại chỗ”, tổ chức thông tin cho nhân dân biết về diễn biến bão…
+
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Tan học
+  text: Em muốn về
 ---
